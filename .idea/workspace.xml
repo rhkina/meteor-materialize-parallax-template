@@ -1,60 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d45f7316-7eb8-4551-8d48-94b3355c8ce3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/material-design-icons/Material-Design-Icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/material-design-icons/Material-Design-Icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/material-design-icons/Material-Design-Icons.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/roboto/Roboto-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/roboto/Roboto-Bold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/roboto/Roboto-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/roboto/Roboto-Light.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/roboto/Roboto-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/roboto/Roboto-Medium.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/roboto/Roboto-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/roboto/Roboto-Regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/roboto/Roboto-Thin.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/roboto/Roboto-Thin.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/client/main/background1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/images/background1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/images/background2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/images/background3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/.meteor/.finished-upgraders" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/.meteor/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/.meteor/.id" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/material-design-icons/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/material-design-icons/Material-Design-Icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/material-design-icons/Material-Design-Icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/roboto/Roboto-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/roboto/Roboto-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/roboto/Roboto-Medium.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/roboto/Roboto-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/public/font/roboto/Roboto-Thin.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/client/footer/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/client/header/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/client/lib/materialize/css/icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/client/layout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/client/main/main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/client/main/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/client/lib/materialize/css/materialize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/client/lib/materialize/js/materialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/client/lib/materialize/css/materialize.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/client/lib/materialize/js/materialize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/.idea/meteor-materialize-parallax-template.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/.meteor/packages" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/.meteor/platforms" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/.meteor/release" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/client/lib/materialize/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/.meteor/versions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/.idea/workspace.xml" />
+    <list default="true" id="d45f7316-7eb8-4551-8d48-94b3355c8ce3" name="Default" comment="Commit by Rubens Kina.">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../meteor-materialize-parallax-template/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../meteor-materialize-parallax-template/.idea/workspace.xml" />
     </list>
     <ignored path="Materialize-paralax.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -300,6 +248,9 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../meteor-materialize-parallax-template" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -362,7 +313,12 @@
       </meteor-runner-state>
       <method />
     </configuration>
-    <configuration default="false" name="RunMyApp" type="meteor-app-runner" factoryName="Meteor">
+    <configuration default="false" name="RunMyApp JavaScript" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:3000">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RunMyApp" type="meteor-app-runner" factoryName="Meteor" workingDirectory="$PROJECT_DIR$/../meteor-materialize-parallax-template">
       <option name="exePath" value="/usr/local/bin/meteor" />
       <option name="name" value="RunMyApp" />
       <option name="startBrowserSettings">
@@ -379,14 +335,9 @@
       <ConfigurationWrapper RunnerId="MeteorDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="RunMyApp JavaScript" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:3000">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Meteor.RunMyApp" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.RunMyApp JavaScript" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.RunMyApp JavaScript" />
+      <item index="1" class="java.lang.String" itemvalue="Meteor.RunMyApp" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -397,6 +348,13 @@
       <option name="number" value="Default" />
       <updated>1446927523712</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit.">
+      <created>1447061672148</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1447061672148</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -406,11 +364,11 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24960877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287037" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287037" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
