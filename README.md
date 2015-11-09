@@ -10,7 +10,7 @@ Original Materialize Parallax Template demo: http://materializecss.com/templates
 Meteor Materialize Parallax Template demo: http://meteor-materialize-parallax.meteor.com/ <br>
 
 
-References:
+References:<br>
 Materialize site: http://materializecss.com/
 
 
